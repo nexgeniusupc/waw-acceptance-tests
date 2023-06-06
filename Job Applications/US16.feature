@@ -21,4 +21,3 @@ Feature: US16: Job application notification
         Examples:
             | Dialog                                       | Button | Display     |
             | Are you sure you want to apply for this job? | No     | Error Toast |
-
